@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Navbar() {
     return (
       <nav className="fixed top-0 w-full bg-gray-800 bg-opacity-90 p-4 shadow-lg z-10">

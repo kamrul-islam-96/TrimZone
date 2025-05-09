@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Booking() {
     return (
       <section id="book" className="py-16 bg-gray-800">

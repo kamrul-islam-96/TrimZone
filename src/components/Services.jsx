@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Services() {
     const services = [
       { name: "Classic Fade", price: "$30", desc: "Sharp, clean fade tailored to your style." },

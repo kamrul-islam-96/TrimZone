@@ -4,6 +4,7 @@ import Services from './components/Services';
 import Gallery from './components/Gallery'; 
 import Booking from './components/Booking'; 
 import Footer from './components/Footer';
+import React from 'react'
 
 function App() {
   return (
