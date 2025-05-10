@@ -2,7 +2,10 @@ import React from 'react';
 
 function Gallery() {
     const images = [
-      
+      "/public/images/customer-getting-wash-after-haircut.jpg",
+      "/public/images/hairdresser-making-hair-path-his-client-hair.jpg",
+      "/public/images/shot-professional-barber-work-handsome-young-man-getting-haircut-local-barbershop.jpg",
+      "/public/images/unrecognizable-barber-washing-head-client.jpg"
     ];
 
     return (

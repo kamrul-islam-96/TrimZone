@@ -15,9 +15,9 @@ function Services() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 px-4">
             {services.map((service, index) => (
               <div key={index} className="bg-gray-700 p-6 rounded-lg shadow-lg hover:bg-gray-600 transition">
-                <h3 className="text-xl font-semibold mb-2">{service.name}</h3>
+                <h3 className="text-xl font-semibold mb-2 text-white">{service.name}</h3>
                 <p className="text-amber-500 mb-2">{service.price}</p>
-                <p>{service.desc}</p>
+                <p className='text-white'>{service.desc}</p>
               </div>
             ))}
           </div>
