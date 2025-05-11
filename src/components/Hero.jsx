@@ -5,7 +5,7 @@ function Hero() {
       <section
         id="home"
         className="h-screen flex items-center justify-center bg-cover bg-center"
-        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1611767013028-9f95101146cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')" }}
+        style={{backgroundImage: "url('/images/man-cuts.jpg')"}}
       >
         <div className="text-center bg-gray-900 bg-opacity-60 p-8 rounded-lg">
           <h2 className="text-5xl font-bold mb-4 text-amber-500">TrimZone Men's Salon</h2>
