@@ -3,7 +3,7 @@
 Welcome to **TrimZone**, a modern and stylish hairdresser salon website built with **React**. This single-page application showcases services, gallery, and an online booking feature — optimized for both desktop and mobile devices.
 
 ## 🌐 Live Preview
-[Add your deployed URL here]
+[splendid-queijadas-d36d25.netlify.app]
 
 ---
 
